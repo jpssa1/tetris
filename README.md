@@ -22,7 +22,6 @@ Projeto de Tetris desenvolvido com Flutter, recriando o clássico jogo de blocos
 
 ## 📸 Screenshots
 
-> Suba as imagens como explicado abaixo
 
 ### 🟪 Jogo em execução
 <img src="tetris app.png" width="300" />
